@@ -7,9 +7,9 @@ $ pip2 install mechanize
 $ pip2 install requests
 $ pip2 install bs4
 $ pip2 install ipaddress
-$ git clone https://github.com/Ilhamxyz213/JMBF
+$ git clone https://github.com/tarom0111/TAROM
 
 CARA JALANKAN 
 
-$ cd JMBF
-$ python2 JMBF.py
+$ cd FS
+$ python2 FS.py
